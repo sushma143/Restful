@@ -23,7 +23,7 @@
  		</param-name>
  		
  		<param-value>
- 			com.zensar.webservice.hello
+ 			com.zensar.webservice.hello,com.zensar.webservice.user
  		</param-value>
  		
  	</init-param>
